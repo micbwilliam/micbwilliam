@@ -15,13 +15,6 @@ With over a decade of experience in development and marketing automation, I turn
 
 ---
 
-### 🌱 I’m Currently Learning
-- Advanced **AI integrations** (OpenAI, Gemini, etc.) in WordPress  
-- **Node.js** and **API-driven architectures**  
-- Improving UX and speed optimization for high-traffic WordPress sites  
-
----
-
 ### 💞️ I’m Looking to Collaborate On
 - Innovative **WordPress plugins** that solve real-world problems  
 - **AI and automation projects** for marketing or business workflows  
